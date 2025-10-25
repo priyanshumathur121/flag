@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.big{
+    top:5rem;
+    left:5rem;
+    
+    
+    
+    
+    position: relative;
+    border :5px solid black ;
+    
+    height:400px;
+    width:800px;
+
+
+}
+.big{
+    background-color: #002868;
+}
+.third{
+    position: relative;
+    height:120px;
+    width:120px;
+    background-color: white;
+    top:2.5rem;
+    border-radius: 50%;
+    left:350px;
+   
+}
+
+
+
+
+
+.first{
+    position: relative;
+    height:100px;
+    width:792px;
+    background-color: #CE1126;
+}
+.second{
+    position: absolute;
+   bottom: 0px;
+    height:100px;
+    width:792px;
+    background-color: #CE1126;
+}
